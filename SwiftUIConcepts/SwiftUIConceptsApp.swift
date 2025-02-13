@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIConceptsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SCIcon()
         }
     }
 }

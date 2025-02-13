@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ShapeC: View {
+struct SCShape: View {
     var body: some View {
         VStack {
             Circle()
@@ -21,5 +21,5 @@ struct ShapeC: View {
 }
 
 #Preview {
-    ShapeC()
+    SCShape()
 }

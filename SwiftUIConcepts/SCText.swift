@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct TextC: View {
+struct SCText: View {
     var body: some View {
         Text("Mike")
 //            .font(.title)
@@ -22,5 +22,5 @@ struct TextC: View {
 }
 
 #Preview {
-    TextC()
+    SCText()
 }

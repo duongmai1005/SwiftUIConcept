@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct IconC: View {
+struct SCIcon: View {
     var body: some View {
         Image(systemName: "heart.fill")
             .resizable()
@@ -18,5 +18,5 @@ struct IconC: View {
 }
 
 #Preview {
-    IconC()
+    SCIcon()
 }
